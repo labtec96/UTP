@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Jan 21 21:21:49 CET 2018:
+ Uruchamianie wersji The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631) systemu Derby: instancja a816c00e-0161-1a62-58b1-0000033badf0
+w katalogu bazy danych Z:\DerbyDbs\ksidb sun.misc.Launcher$AppClassLoader@73d16e93 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_101-b13
+user.dir=D:\Javaprogramy\UTP13_HC_S15831.zip_expanded\UTP13_HC_S15831
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=null
+Uruchomiono program ładujący klasę bazy danych - derby.database.classpath=''
